@@ -1,0 +1,28 @@
+votre-projet/
+├── public/
+│   └── images/
+│       ├── nba/
+│       │   ├── nba1.jpg
+│       │   ├── nba2.jpg
+│       │   ├── nba3.jpg
+│       │   └── nba4.jpg
+│       ├── nfl/
+│       │   ├── nfl1.jpg
+│       │   ├── nfl2.jpg
+│       │   ├── nfl3.jpg
+│       │   └── nfl4.jpg
+│       ├── mma/
+│       │   ├── mma1.jpg
+│       │   ├── mma2.jpg
+│       │   ├── mma3.jpg
+│       │   └── mma4.jpg
+│       ├── boxe/
+│       │   ├── boxe1.jpg
+│       │   ├── boxe2.jpg
+│       │   ├── boxe3.jpg
+│       │   └── boxe4.jpg
+│       └── foot/
+│           ├── foot1.jpg
+│           ├── foot2.jpg
+│           ├── foot3.jpg
+│           └── foot4.jpg
